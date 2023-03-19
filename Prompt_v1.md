@@ -1,5 +1,5 @@
 # Elements Present:
-**[1] Subject: This is going to be the subject you specify**
+**[1] Subject:** This is going to be the subject you specify
 
 **[2] Description:** Provide a short, detailed, and specific description of the subject using descriptive adjectives and adverbs, sensory language, and metaphors/similes (sparingly).
 
